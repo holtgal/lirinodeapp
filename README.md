@@ -23,8 +23,13 @@ request
 
 Bandsintown API
 
+![Image of bandsintown working ](https://github.com/holtgal/lirinodeapp/blob/master/Nodeliribandsintown.png?raw=true)
+
 OMDb API
+
+![Image of bandsintown working ](https://github.com/holtgal/lirinodeapp/blob/master/Nodeliriomdb.png?raw=true)
 
 Spotify API
 
-![Image of bandsintown working ](https://github.com/holtgal/lirinodeapp/blob/master/Nodeliribandsintown.png?raw=true)
+![Image of bandsintown working ](https://github.com/holtgal/lirinodeapp/blob/master/Nodelirispotify.png?raw=true)
+
