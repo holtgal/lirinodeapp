@@ -4436,3 +4436,4 @@ Invalid. Does not compute. Self-destructing in 3..2..1..
 [34m[39m
 [34m---------------------------------------------------[39m
 [34m[39m
+Invalid. Does not compute. Self-destructing in 3..2..1..
